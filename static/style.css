@@ -76,7 +76,7 @@ main {
 }
 
 div[for="card"] {
-    width: 300px;
+    width: 305px;
     min-height: 500px;
     box-shadow: 0 0 5px 0 rgb(0 0 0 / 12%), 0 5px 5px 0 rgb(0 0 0 / 6%);
     border-radius: 12px;
